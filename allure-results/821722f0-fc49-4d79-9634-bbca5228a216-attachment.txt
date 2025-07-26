@@ -1,0 +1,19 @@
+Error closing modal: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010317b570 cxxbridge1$str$ptr + 2731064
+1   chromedriver                        0x0000000103173468 cxxbridge1$str$ptr + 2698032
+2   chromedriver                        0x0000000102cc23f8 cxxbridge1$string$len + 90664
+3   chromedriver                        0x0000000102d0971c cxxbridge1$string$len + 382284
+4   chromedriver                        0x0000000102d4ab1c cxxbridge1$string$len + 649548
+5   chromedriver                        0x0000000102cfda0c cxxbridge1$string$len + 333884
+6   chromedriver                        0x000000010313e5f4 cxxbridge1$str$ptr + 2481340
+7   chromedriver                        0x000000010314185c cxxbridge1$str$ptr + 2494244
+8   chromedriver                        0x000000010311f248 cxxbridge1$str$ptr + 2353424
+9   chromedriver                        0x0000000103142118 cxxbridge1$str$ptr + 2496480
+10  chromedriver                        0x00000001031102f8 cxxbridge1$str$ptr + 2292160
+11  chromedriver                        0x000000010316200c cxxbridge1$str$ptr + 2627284
+12  chromedriver                        0x0000000103162198 cxxbridge1$str$ptr + 2627680
+13  chromedriver                        0x00000001031730a4 cxxbridge1$str$ptr + 2697068
+14  libsystem_pthread.dylib             0x000000018a649f94 _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018a644d34 thread_start + 8
+
